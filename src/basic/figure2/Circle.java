@@ -1,7 +1,7 @@
 package basic.figure2;
 
 //円
-class Circle  {
+class Circle extends Figure {
     //フィールド
         private double radius;//半径
 

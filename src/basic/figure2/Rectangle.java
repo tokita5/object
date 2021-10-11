@@ -1,7 +1,7 @@
 package basic.figure2;
 
 //長方形
-class Rectangle{
+class Rectangle extends Figure{
     //フィールド
     private double height;
     private double width;

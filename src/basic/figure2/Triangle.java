@@ -1,7 +1,7 @@
 package basic.figure2;
 
 //三角形
-class Triangle {
+class Triangle extends Figure {
     //フィールド
     private double height;
     private double base;
