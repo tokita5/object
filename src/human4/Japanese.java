@@ -1,7 +1,7 @@
-package basic.human3;
+package human4;
 
 //日本人クラス
-class Japanese extends Human{
+class Japanese extends Human {
 
     //コンストラクタ
     public Japanese(String name) {
