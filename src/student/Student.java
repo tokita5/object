@@ -6,6 +6,14 @@ public class Student {
     private String gender;
     private int grade;
 
+    //コンストラクタ
+    public Student(String name, String gender, int grade) {
+        this.name = name;
+        this.gender = gender;
+        this.grade = grade;
+    }
+
+    //ゲッター
     public String getName() {
         return name;
     }
@@ -18,6 +26,7 @@ public class Student {
         return grade;
     }
 
+    //セッター
     public void setName(String name) {
         this.name = name;
     }
@@ -35,10 +44,5 @@ public class Student {
         String age = new String();
         return "Human{"+"name"+name+'\''+", age="+age+'}';
     }
-
-    public Student(String name, String gender, int grade) {
-        this.name = name;
-        this.gender = gender;
-        this.grade = grade;
     }
-}
+
