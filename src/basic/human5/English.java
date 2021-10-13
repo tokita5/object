@@ -1,9 +1,11 @@
-package human4;
+package basic.human5;
 
-class English extends Human {
+class English implements IFSayHello {
+    protected String name;
+
     //コンストラクタ
     public English(String name) {
-        super(name);
+        this.name = name;
     }
 
     @Override

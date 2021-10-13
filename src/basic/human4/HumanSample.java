@@ -1,15 +1,14 @@
-package human5;
+package basic.human4;
 
 class HumanSample {
     public static void main(String[] args) {
-
-        IFSayHello[] humans = {
+        Human[] humans = {
                 new English("Tom"),
                 new Japanese("ひろし"),
                 new Chinese("李小龙"),
                 new Korean("지수")
         };
-        for (IFSayHello human : humans) {
+        for (Human human : humans) {
             human.sayHello();
         }
     }

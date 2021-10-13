@@ -1,4 +1,4 @@
-package human5;
+package basic.human5;
 
 //中国人クラス
 class Chinese implements IFSayHello {

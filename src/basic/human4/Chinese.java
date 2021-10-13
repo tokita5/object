@@ -1,4 +1,4 @@
-package human4;
+package basic.human4;
 
 //中国人クラス
 class Chinese extends Human {

@@ -1,11 +1,10 @@
-package human5;
+package basic.human4;
 
 //韓国人クラス
-class Korean implements IFSayHello {
-    protected String name;
+class Korean extends Human {
 
     public Korean(String name) {
-        this.name = name;
+        super(name);
     }
 
     @Override
