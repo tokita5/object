@@ -1,4 +1,6 @@
-package ex;
+package ex.student1;
+
+import ex.student1.Student;
 
 public class StudentSample {
     public static void main(String[] args) {

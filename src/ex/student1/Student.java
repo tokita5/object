@@ -1,4 +1,4 @@
-package ex;
+package ex.student1;
 
 public class Student {
     //フィールド
