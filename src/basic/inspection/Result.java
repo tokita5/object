@@ -48,7 +48,7 @@ class Result {
     }
 
     public double getMBP() {
-        return (sBP+dBP)/3;
+        return dBP+(sBP-dBP)/3.0;
     }
 
     @Override
