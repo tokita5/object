@@ -66,6 +66,6 @@ public class ArrayListSample {
         list.sort(Comparator.naturalOrder());
         System.out.println(list);
         list.sort(Comparator.reverseOrder());
-        System.out.println(list);
+        System.out.println();
     }
 }
