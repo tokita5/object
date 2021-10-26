@@ -10,7 +10,7 @@ import java.util.Map;
 class StudentMapSample {
     public static void main(String[] args) {
         //クラスごとのマップ
-        Map<String, List<Student>> studentGroupMap =  new HashMap<>(40);
+        Map<String, List<Student >> studentGroupMap =  new HashMap<>(40);
         //学生のリスト
         List<Student>studentList = new ArrayList<>(100);
         studentList.add(new Student("1-1","岸田", Gender.MEN,98,88,80));
