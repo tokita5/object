@@ -1,6 +1,4 @@
-package asobiba;
-
-import java.util.Locale;
+package asobiba.StringPractis;
 
 class LowerUpper {
     public static void main(String[] args) {

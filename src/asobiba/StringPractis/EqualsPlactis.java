@@ -1,10 +1,6 @@
-package asobiba;
+package asobiba.StringPractis;
 
-<<<<<<< HEAD
 class EqualsPlactis {
-=======
-public class Equals {
->>>>>>> origin/master
     public static void main(String[] args) {
         //値が同じ
         String a1 = "あいう";
@@ -23,7 +19,6 @@ public class Equals {
             System.out.println("NG");//出力される
         }
         //値は同じだがデータが異なる
-<<<<<<< HEAD
         String c1 = "1";
         int c2 = 1;
         if (c1.equals(c2)) {
@@ -47,8 +42,5 @@ public class Equals {
         }else{
             System.out.println("NG");//出力される
         }
-=======
-
->>>>>>> origin/master
     }
 }

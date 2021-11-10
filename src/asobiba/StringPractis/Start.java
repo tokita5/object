@@ -1,4 +1,4 @@
-package asobiba;
+package asobiba.StringPractis;
 
 public class Start {
     public static void main(String[] args) {

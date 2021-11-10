@@ -1,4 +1,4 @@
-package asobiba;
+package asobiba.StringPractis;
 
 class BuilderConcat {
     //文字列の結合～toString以下は文字列を返している
