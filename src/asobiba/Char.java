@@ -1,6 +1,6 @@
 package asobiba;
 
-public class Char {
+class Char {
     public static void main(String[] args) {
         String a = "ABあい";
 
