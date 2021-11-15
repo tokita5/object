@@ -1,4 +1,4 @@
-package asobiba.StringPractis;
+package asobiba.stringpractis;
 
 public class Null {
     public static void main(String[] args) {

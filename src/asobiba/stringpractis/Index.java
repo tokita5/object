@@ -1,4 +1,4 @@
-package asobiba.StringPractis;
+package asobiba.stringpractis;
 
 class Index {
     public static void main(String[] args) {

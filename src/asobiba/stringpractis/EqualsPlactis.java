@@ -1,4 +1,4 @@
-package asobiba.StringPractis;
+package asobiba.stringpractis;
 
 class EqualsPlactis {
     public static void main(String[] args) {

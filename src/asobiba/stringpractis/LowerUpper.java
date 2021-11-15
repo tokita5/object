@@ -1,4 +1,4 @@
-package asobiba.StringPractis;
+package asobiba.stringpractis;
 
 class LowerUpper {
     public static void main(String[] args) {
